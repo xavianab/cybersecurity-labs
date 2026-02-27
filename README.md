@@ -1,17 +1,17 @@
-# cybersecurity-labs
-My cybersecurity learning journey and lab writeups
 # 🔐 Cybersecurity Labs & Writeups
 
 ## About
 Cybersecurity student documenting hands-on labs and security research.
-Certifications: CompTIA A+ | Network+ | Security+
+
+**Certifications:** CompTIA A+ | Network+ | Security+
 
 ---
 
 ## Lab 1 — Kali Linux Password Recovery on ARM64
 
 **Date:** February 2026
-**Environment:** M1 Mac, UTM VM, Kali Linux ARM64
+
+**Environment:** M1 Mac | UTM VM | Kali Linux ARM64
 
 **Problem:** Lost credentials on Kali Linux virtual machine
 
