@@ -30,3 +30,6 @@ Cybersecurity student documenting hands-on labs and security research.
 - Mobile app security testing
 - Burp Suite labs
 - Bug bounty writeups
+
+### Lab 2: Real-World Security Incident Analysis
+[View Writeup](incident-reports/INCIDENT-REPORT.md)
