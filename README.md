@@ -32,4 +32,4 @@ Cybersecurity student documenting hands-on labs and security research.
 - Bug bounty writeups
 
 ### Lab 2: Real-World Security Incident Analysis
-[View Writeup](incident-reports/INCIDENT-REPORT.md
+[View Writeup](incident-reports/INCIDENT-REPORT.md)
